@@ -1,0 +1,15 @@
+C:\Users\kii\workspace\c#code\TestAdapter\bin\Debug\net6.0\TestAdapter.exe
+C:\Users\kii\workspace\c#code\TestAdapter\bin\Debug\net6.0\TestAdapter.deps.json
+C:\Users\kii\workspace\c#code\TestAdapter\bin\Debug\net6.0\TestAdapter.runtimeconfig.json
+C:\Users\kii\workspace\c#code\TestAdapter\bin\Debug\net6.0\TestAdapter.dll
+C:\Users\kii\workspace\c#code\TestAdapter\bin\Debug\net6.0\ref\TestAdapter.dll
+C:\Users\kii\workspace\c#code\TestAdapter\bin\Debug\net6.0\TestAdapter.pdb
+C:\Users\kii\workspace\c#code\TestAdapter\obj\Debug\net6.0\TestAdapter.csproj.AssemblyReference.cache
+C:\Users\kii\workspace\c#code\TestAdapter\obj\Debug\net6.0\TestAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kii\workspace\c#code\TestAdapter\obj\Debug\net6.0\TestAdapter.AssemblyInfoInputs.cache
+C:\Users\kii\workspace\c#code\TestAdapter\obj\Debug\net6.0\TestAdapter.AssemblyInfo.cs
+C:\Users\kii\workspace\c#code\TestAdapter\obj\Debug\net6.0\TestAdapter.csproj.CoreCompileInputs.cache
+C:\Users\kii\workspace\c#code\TestAdapter\obj\Debug\net6.0\TestAdapter.dll
+C:\Users\kii\workspace\c#code\TestAdapter\obj\Debug\net6.0\ref\TestAdapter.dll
+C:\Users\kii\workspace\c#code\TestAdapter\obj\Debug\net6.0\TestAdapter.pdb
+C:\Users\kii\workspace\c#code\TestAdapter\obj\Debug\net6.0\TestAdapter.genruntimeconfig.cache

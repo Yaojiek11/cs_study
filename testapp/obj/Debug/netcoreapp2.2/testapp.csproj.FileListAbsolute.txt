@@ -1,0 +1,11 @@
+C:\Users\kii\workspace\c#vscode\testapp\bin\Debug\netcoreapp2.2\testapp.deps.json
+C:\Users\kii\workspace\c#vscode\testapp\bin\Debug\netcoreapp2.2\testapp.runtimeconfig.json
+C:\Users\kii\workspace\c#vscode\testapp\bin\Debug\netcoreapp2.2\testapp.runtimeconfig.dev.json
+C:\Users\kii\workspace\c#vscode\testapp\bin\Debug\netcoreapp2.2\testapp.dll
+C:\Users\kii\workspace\c#vscode\testapp\bin\Debug\netcoreapp2.2\testapp.pdb
+C:\Users\kii\workspace\c#vscode\testapp\obj\Debug\netcoreapp2.2\testapp.csprojAssemblyReference.cache
+C:\Users\kii\workspace\c#vscode\testapp\obj\Debug\netcoreapp2.2\testapp.csproj.CoreCompileInputs.cache
+C:\Users\kii\workspace\c#vscode\testapp\obj\Debug\netcoreapp2.2\testapp.AssemblyInfoInputs.cache
+C:\Users\kii\workspace\c#vscode\testapp\obj\Debug\netcoreapp2.2\testapp.AssemblyInfo.cs
+C:\Users\kii\workspace\c#vscode\testapp\obj\Debug\netcoreapp2.2\testapp.dll
+C:\Users\kii\workspace\c#vscode\testapp\obj\Debug\netcoreapp2.2\testapp.pdb

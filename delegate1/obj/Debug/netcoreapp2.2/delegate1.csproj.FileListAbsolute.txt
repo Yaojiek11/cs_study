@@ -1,0 +1,11 @@
+C:\Users\kii\workspace\c#vscode\delegate1\bin\Debug\netcoreapp2.2\delegate1.deps.json
+C:\Users\kii\workspace\c#vscode\delegate1\bin\Debug\netcoreapp2.2\delegate1.runtimeconfig.json
+C:\Users\kii\workspace\c#vscode\delegate1\bin\Debug\netcoreapp2.2\delegate1.runtimeconfig.dev.json
+C:\Users\kii\workspace\c#vscode\delegate1\bin\Debug\netcoreapp2.2\delegate1.dll
+C:\Users\kii\workspace\c#vscode\delegate1\bin\Debug\netcoreapp2.2\delegate1.pdb
+C:\Users\kii\workspace\c#vscode\delegate1\obj\Debug\netcoreapp2.2\delegate1.csprojAssemblyReference.cache
+C:\Users\kii\workspace\c#vscode\delegate1\obj\Debug\netcoreapp2.2\delegate1.csproj.CoreCompileInputs.cache
+C:\Users\kii\workspace\c#vscode\delegate1\obj\Debug\netcoreapp2.2\delegate1.AssemblyInfoInputs.cache
+C:\Users\kii\workspace\c#vscode\delegate1\obj\Debug\netcoreapp2.2\delegate1.AssemblyInfo.cs
+C:\Users\kii\workspace\c#vscode\delegate1\obj\Debug\netcoreapp2.2\delegate1.dll
+C:\Users\kii\workspace\c#vscode\delegate1\obj\Debug\netcoreapp2.2\delegate1.pdb
